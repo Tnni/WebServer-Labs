@@ -1,0 +1,75 @@
+
+<sisReport namePrefix="r" creditTaken="2">
+    <studentList>
+        <sid>cse29889</sid>
+        <name>Irene, Rodriguez</name>
+        <credit_taken>84</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse12780</sid>
+        <name>Nicole, Bradley</name>
+        <credit_taken>111</credit_taken>
+        <credit_graduate>120</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse79082</sid>
+        <name>Charles, Garrett</name>
+        <credit_taken>96</credit_taken>
+        <credit_graduate>120</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse60455</sid>
+        <name>Emily, Peters</name>
+        <credit_taken>108</credit_taken>
+        <credit_graduate>120</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse81679</sid>
+        <name>Ronald, Carter</name>
+        <credit_taken>84</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse67278</sid>
+        <name>Wayne, Griffin</name>
+        <credit_taken>96</credit_taken>
+        <credit_graduate>120</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse40589</sid>
+        <name>Harry, Burton</name>
+        <credit_taken>87</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse55671</sid>
+        <name>Sharon, Howard</name>
+        <credit_taken>87</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse93770</sid>
+        <name>Catherine, Rivera</name>
+        <credit_taken>99</credit_taken>
+        <credit_graduate>120</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse46346</sid>
+        <name>Emily, Miller</name>
+        <credit_taken>93</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse67895</sid>
+        <name>Philip, Rodriguez</name>
+        <credit_taken>81</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+    <studentList>
+        <sid>cse64575</sid>
+        <name>Harry, Fowler</name>
+        <credit_taken>84</credit_taken>
+        <credit_graduate>90</credit_graduate>
+    </studentList>
+</sisReport>
